@@ -1,0 +1,11 @@
+# Site settings
+title: As-Perod
+email: slashingweapon@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Campaign notes from the world of As-Perod, the Third Creation.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://as-perod.holme-cj.com" # the base hostname & protocol for your site
+github_username:  slashingweapon
+
+# Build settings
+markdown: kramdown

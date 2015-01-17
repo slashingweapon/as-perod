@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Index</h1>
+
+	<div class="columnated">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <p><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></p>
+          {% endif %}
+        {% endfor %}
+    </div>
+
+</div>
