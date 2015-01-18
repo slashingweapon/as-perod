@@ -3,9 +3,9 @@ layout: default
 title: Mosyph
 ---
 
-[[toc]]
 
-= Mosyph The Slave =
+
+# Mosyph The Slave 
 
 The details of the early life of Mosyph the Red Emperor are a mystery.  The little we do know of his youth explains much about the empire he built.
 
@@ -25,9 +25,9 @@ It is said that, when he was hungry, Mosyph would approach a town yelling at the
 
 (This event may be the origin of the month of charity, where villagers and farmers set baskets of food outside their doorsteps every night in midsummer.)
 
-In time the geas ran its course and Mosyph was no longer bound by the hated son's last command.  He hid his face and journeyed east, away from known lands.  Still hunted for his crimes, he traveled in secret.  After a year of running he reached the Great River [[Yeron]].  In the night he stole a fishing boat, crossed the water, and was not seen again for neigh a human lifetime.
+In time the geas ran its course and Mosyph was no longer bound by the hated son's last command.  He hid his face and journeyed east, away from known lands.  Still hunted for his crimes, he traveled in secret.  After a year of running he reached the Great River [Yeron](Yeron.html).  In the night he stole a fishing boat, crossed the water, and was not seen again for neigh a human lifetime.
 
-= Mosyph In The East =
+# Mosyph In The East 
 
 As little as we know about Mosyph's youth, we know even less about his days beyond the Yeron.  Many greedy kings along the river have tried to extend their rule over it, but all such projects fail.  The far forests belong forever to the fey people, the second children of the gods, beings so wild enough they do not worship their own creators.
 
@@ -37,19 +37,19 @@ Concerning that lore, Mosyph spoke seldom.  It was clearly arcane in nature, but
 
 Only this much is certain: that when Mosyph emerged from his sojourn posessed of tremendous magical learning and a store of powerful tools.  His beauty and grace were likewise increased, perhaps a gift from his fey benefactor.
 
-= Mosyph The Wanderer =
+# Mosyph The Wanderer 
 
 The future Emperor walked the inhabited lands for some years, often hiding his true face.  He traveled in various guises that allowed him to move freely: as an actor, a tinker's assistant, and a bard, among others.  Where the name Mosyph had been forgotten or was never known, he used his own name.  In other places he used the name Avalael, which sounds like the elven word for "flower child" but is the fey word for "beautiful stranger".  
 
-The world inhabited by the Third Children he returned to was much as the one he had left: tiny nations formed alliances and borders which shifted yearly through marriage or war.  Elves lived in a diaspora lurking in the world's forests.  Dwarven tribes fought as much between themselves as they did the humans.  Halflings lived among the humans and gnomes, often as slaves.  Free Gnomes lived in loosely organized city-states behind the [[Rakrodperkim]], warring a little more with the goblins than with each other.  
+The world inhabited by the Third Children he returned to was much as the one he had left: tiny nations formed alliances and borders which shifted yearly through marriage or war.  Elves lived in a diaspora lurking in the world's forests.  Dwarven tribes fought as much between themselves as they did the humans.  Halflings lived among the humans and gnomes, often as slaves.  Free Gnomes lived in loosely organized city-states behind the [Rakrodperkim](Rakrodperkim.html), warring a little more with the goblins than with each other.  
 
 Almost everywhere, the stong ruled for themselves and the weak were mostly impoverished.  Slavery was a universal institution.  War was a game played by nobles with the lives of the commoners.  Learning of any kind was increasingly rare because the places of learning had long been razed.  Shrines and temples were rare outside of heavily fortified cities because so many wars had been fought under religious pretexts.
 
 From time to time Mosyph would unveil himself to a trusted few, and pronounce his intention to create a single nation.  Such people formed the network of spies and followers who paved the way for his conquest.  
 
-The future Emperor ended his wanderings in the far West, between the high mountains and the restless sea, among the humans called the Eld'che, in the place now known as [[EssTina|Ess'Tina]].  They were a people who knew little of war and even less of slavery.  There he wooed and won the seeress [[Y'syen]] for his wife, whose only brideprice was the promise of a light rule upon her people.
+The future Emperor ended his wanderings in the far West, between the high mountains and the restless sea, among the humans called the Eld'che, in the place now known as [EssTina|Ess'Tina](EssTina|Ess'Tina.html).  They were a people who knew little of war and even less of slavery.  There he wooed and won the seeress [Y'syen](Y'syen.html) for his wife, whose only brideprice was the promise of a light rule upon her people.
 
-= Mosyph, King Of Soubous =
+# Mosyph, King Of Soubous 
 
 Having walked the length and breadth of the lands he intended to conquer, Mosyph began his empire with a startling series of conquests in the interior, in the area now known as the Principality of Soubous.  When asked about this particular choice by a close follower, Mosyph is said to have replied "There are more slaves than free people in that place, and I have need of an army."
 
@@ -61,7 +61,7 @@ It didn't take long for some nobles to reach the conclusion that Mosyph's entire
 
 The planting season was barely over when suddenly the King of Soubous stopped his campaigns, set his borders, and threatened no one for four years.  In that time he set down his law, removed nobles who were recalcitrant or incompetent and replaced them with more talented commoners, set a single currency, established a judiciary, and made a practice of punishing bribe-takers.  In short, he built something the region hadn't seen in generations: a functional government.
 
-His most surprising move was instituting the Great Library of the Arcane (which later became the [[Arcane Academy]]).  Mages who swore to serve the King of Soubous and donated a unique spell to the library could have access to its secrets for a reasonable fee.  In a time where magical learning was rare and spells were jelously guarded secrets, the temptation was too much for most magicians.  Above all else, a magician wants power, and aligning ones self with the King of Soubous was clearly the best way to get it.
+His most surprising move was instituting the Great Library of the Arcane (which later became the [Arcane Academy](Arcane Academy.html)).  Mages who swore to serve the King of Soubous and donated a unique spell to the library could have access to its secrets for a reasonable fee.  In a time where magical learning was rare and spells were jelously guarded secrets, the temptation was too much for most magicians.  Above all else, a magician wants power, and aligning ones self with the King of Soubous was clearly the best way to get it.
 
 The borders of Soubous remained open for trade and diplomacy during those few years.  Visitors were amazed at the intense industry of the new kingdom, the rapidly expanding road system, the thriving town centers, and the abundant crop yields.  So many people wanted to live in Soubous that three kingdoms closed their borderd to stem the flow of immigration.
 
@@ -71,13 +71,13 @@ These early years were not without challenges for the new king.  There were nume
 
 In the fourth year of Mosyph's reign two events cleared his path for further conquest.  First, he was able to strike a treaty with the dragons.  Secondly, Clonius and Rilatia offered him their respective kingdoms.  It is hard to say which event was more astonishing.
 
-= Bronze Wing And Golden Crown =
+# Bronze Wing And Golden Crown 
 
 The dragons, Fanar and Nonutu, settled in the rocky hills and canyons south of Soubous because they were sparsely populated, difficult to cross, and easy to protect.  Most of the few inhabitants were bandits and other people who prefered to live outside any established law.  There were also veins of precious metals sprinkeld throughout the hills.  For two dragons looking to raise a clutch of young it was an ideal location.  
 
 Mosyph knew of the male, Fanar, and his particular fondness for fine food.  In the early autumn he set up a camp near the dragons' den and set his best cooks to making a feast fit for a delegation of kings.  Besides the kitchen staff, Queen Y'syen, his best musicians, most courteous attendants, and six carefully chosen officials were the only others present.  The king instructed his people to welcome any strangers as honored guests, no matter how unsavory their appearance might be.
 
-The full telling of their meeting and long association is recounted in the [[Lay of Fanar and Nonutu]], but it bears telling here in brief.  Fanar wanted to test the audacious king on his doorstep, so he sent a poor gnomish family (complete with crying children) into the camp to see how they would be treated.  Mosyph not only feasted them like nobility, but sent them away at dawn with food and useful gifts.  The next night Fanar sent a dozen plagued outcasts into the camp.  Again, the strangers were greeted as nobility.  Mosyph and Y'syen tended to them, cured their various diseases, feasted them at their own table, and even offered to transport them safely to Soubous if they wished to become citizens.  
+The full telling of their meeting and long association is recounted in the [Lay of Fanar and Nonutu](Lay of Fanar and Nonutu.html), but it bears telling here in brief.  Fanar wanted to test the audacious king on his doorstep, so he sent a poor gnomish family (complete with crying children) into the camp to see how they would be treated.  Mosyph not only feasted them like nobility, but sent them away at dawn with food and useful gifts.  The next night Fanar sent a dozen plagued outcasts into the camp.  Again, the strangers were greeted as nobility.  Mosyph and Y'syen tended to them, cured their various diseases, feasted them at their own table, and even offered to transport them safely to Soubous if they wished to become citizens.  
 
 On the third night Fanar donned a disguise and told bandits about the rich king camped in the wilderness with no forces to protect him.  The bandits did the predictable thing and assailed the camp.  Before they ever stepped foot within the torchlight they became confused, blinded, and lost their weapons.  Mosyph strode out into the darkness and slew all but one, whom he left alive to relate the tale.
 
@@ -85,21 +85,21 @@ On the fourth night the king instructed his cooks to prepare the most grand meal
 
 From a few small acts of faith those who might have been enemies instead became friends.  It was not always an easy friendship, but it lasted all the years of Mosyph's and Y'syen's lives.  It was from friendship that agreements on passage, protection, boundaries, and the other minutia of stathood were made and kept.  Certainly it increased the safety and wealth of all parties.  But at it's root it was a treaty of profound friendship rather than mere convenience.
 
-== Clonius And Rilatia ==
+## Clonius And Rilatia 
 
-[[Irius]], [[Lorius]], [[Polocius]], [[Undosia]], and [[Rayolia]] had once been the single nation of [[Ososia]].  Time, greed, and civil war had long since split the nation into frequently warring states ruled by monarchs who were distant cousins to each other.  Two of these rulers, Clonius King of Irius and Queen Rilatia of Lorius, had wanted to marry for years but were prevented by the political implications.  Neither could they afford to make an open peace for fear the surrounding nations would then ally against them.
+[Irius](Irius.html), [Lorius](Lorius.html), [Polocius](Polocius.html), [Undosia](Undosia.html), and [Rayolia](Rayolia.html) had once been the single nation of [Ososia](Ososia.html).  Time, greed, and civil war had long since split the nation into frequently warring states ruled by monarchs who were distant cousins to each other.  Two of these rulers, Clonius King of Irius and Queen Rilatia of Lorius, had wanted to marry for years but were prevented by the political implications.  Neither could they afford to make an open peace for fear the surrounding nations would then ally against them.
 
 The chief lesson they learned from King Mosyph's rise to power was that an orderly and prosperous rule was possible provided the noble class could be brought to heel.  Their first step was to use the nobles' fears of being overshadowed by neighboring Soubous to press reforms that copied some of the successes king Mosyph.  Both nations saw a quick change in material fortunes while at the same time suffering from internal political pressures.  What was good for the kingdom clearly was not good for the nobles.
 
-Rilatia pointedly sent copies of the [[Soubous Book of Law]], thinly disguised with a new title and minor changes, to her cousin monarchs.  Her message was clear: there would be one rule and one law in the one nation of Ososia.  Clonius took public offense and deployed a large part of his army on the border between his lands and hers.  In response, she did likewise.  The two armies stood barely a bowshot apart for most of the summer.  The three other monarchs, hoping the two would weaken each other irreparably in the coming conflict, took no position and deployed no forces.
+Rilatia pointedly sent copies of the [Soubous Book of Law](Soubous Book of Law.html), thinly disguised with a new title and minor changes, to her cousin monarchs.  Her message was clear: there would be one rule and one law in the one nation of Ososia.  Clonius took public offense and deployed a large part of his army on the border between his lands and hers.  In response, she did likewise.  The two armies stood barely a bowshot apart for most of the summer.  The three other monarchs, hoping the two would weaken each other irreparably in the coming conflict, took no position and deployed no forces.
 
 It was during this stand-off that the two secretly signed a treaty with Mosyph pledging their fealty and making themselves client rulers.  What they asked in return was the permission to marry and his aid in conquering the remaining three states.  They were also promised an adjunct to the Arcane Library would be built in their capital, once their conquest was complete.  Whether they approached Mosyph because they needed his help to unify five warring states or because they were afraid of his army will always be a matter of some debate.  
 
 The two returned separately to their military camps and prepared them for battle.  At dawn the next day the two "opposing" monarchs met in parlay where, to the surprise of both sides, they exchanged wedding vows and pronounced their joint intention of conquering (or unifying) the five splintered kingdoms of Ososia.  Their armies, already gathered, marched that day agains the kingdom of Polocius.  The remaining three kingdoms were ill positioned to fight and, with some help from the Soubous magicians, were beaten before the first snow.  As in Soubous, it would be years before Ososia was truly a settled nation, but it represented a border that Mosyph could concern himself with much less as he began the Ten Year Conquest.
 
-= The Fields Of Garaus =
+# The Fields Of Garaus 
 
-In the autumn before he began his war against all of [[As-Perod]] Mosyph borrowed an idea from Rilatia (then Queen of Ososia) and sent a beautifully crafted copy of the [[Soubous Book of Law]] to every sovreign he intended to conquer in the coming year.  It was a challenge that could not be ignored and this time the response was immediate and extreme: every king within a thirty day march of Soubous, twenty seven kings in all, invaded Soubous in late winter.  All told it was a war force over a quarter of a million strong.  It was a bold move designed to crush his forces before the proper campaign season had even begun.
+In the autumn before he began his war against all of [As-Perod](As-Perod.html) Mosyph borrowed an idea from Rilatia (then Queen of Ososia) and sent a beautifully crafted copy of the [Soubous Book of Law](Soubous Book of Law.html) to every sovreign he intended to conquer in the coming year.  It was a challenge that could not be ignored and this time the response was immediate and extreme: every king within a thirty day march of Soubous, twenty seven kings in all, invaded Soubous in late winter.  All told it was a war force over a quarter of a million strong.  It was a bold move designed to crush his forces before the proper campaign season had even begun.
 
 Mosyph's strategy was to force the opposing kings to commit their forces in a set-piece battle they felt sure of winning.  To that end the Soubous army harried the larger allied forces, which gave chase and eventually surrounded them on a large flood plain still hard with frost, near the town of Garaus.  When Mosyph called for a meeting of parlay there was some debate among the allied kings as to whether they should accept or simply march on the badly outnumbered Soubous army first thing in the morning.  A few of the kings decided to meet with Mosyph, not to bargain with him but simply as a courtesy.
 
@@ -125,8 +125,8 @@ The fate of the Lomiyar army bears special mention here.  They sacked the town o
 
 Within two weeks every one of the twenty seven armies was forced to surrender.  That year, another large collection of kingdoms fell to Mosyph, who now called himself Emperor of As-Perod.  It was the first of ten years of war.
 
-= The Ten Year Conquest =
+# The Ten Year Conquest 
 
-It may seem strange today that a single man was able to conquer all of [[As-Perod]], but Mosyph's task was made far simpler by the constantly warring nations that existed then.  With a multitude of hostile countries unale to form strong aliances, he never faced coherent opposition.  His most pressing challenge was to unite his conquests together quickly.  Without his knack at building functional nations he could not have succeeded.  "War is easy," he famously wrote, "but peace is far harder."
+It may seem strange today that a single man was able to conquer all of [As-Perod](As-Perod.html), but Mosyph's task was made far simpler by the constantly warring nations that existed then.  With a multitude of hostile countries unale to form strong aliances, he never faced coherent opposition.  His most pressing challenge was to unite his conquests together quickly.  Without his knack at building functional nations he could not have succeeded.  "War is easy," he famously wrote, "but peace is far harder."
 
 

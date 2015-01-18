@@ -3,8 +3,8 @@ layout: default
 title: Arducian Charger
 ---
 
-[[toc]]
-=Arducian Charger (Warhorse, Light)=
+
+# Arducian Charger (Warhorse, Light)
 
 Large Animal 
 Hit Dice: 4d8+24 (42 hp)
@@ -27,9 +27,9 @@ Challenge Rating: 2
 Advancement: —
 Level Adjustment: —
 
-==Description==
+## Description
 
-Arducian chargers are more than just light warhorses: they are exemplars of their kind.  Legend says their grandsires drank from the well of life, and thereby passed increased vigor to subsequent generations.  They are bred only in the area surrounding [[Arducia]], mostly for the royal families and imperial guards.  Although only slightly larger than light warhorses, they are renowned for their frightening strength and seemingly endless stamina.  An Arducian charger is a significantly superior animal compared to most heavy warhorse.  Most Arducians are dappled, while a few are solid colors with socks or star markings.  Black Arducians are exceedingly rare, and can fetch over 1000g.
+Arducian chargers are more than just light warhorses: they are exemplars of their kind.  Legend says their grandsires drank from the well of life, and thereby passed increased vigor to subsequent generations.  They are bred only in the area surrounding [Arducia](Arducia.html), mostly for the royal families and imperial guards.  Although only slightly larger than light warhorses, they are renowned for their frightening strength and seemingly endless stamina.  An Arducian charger is a significantly superior animal compared to most heavy warhorse.  Most Arducians are dappled, while a few are solid colors with socks or star markings.  Black Arducians are exceedingly rare, and can fetch over 1000g.
 
 A warhorse can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
@@ -37,7 +37,7 @@ A warhorse can fight while carrying a rider, but the rider cannot also attack un
 
 **Tricks Known:** An animal trained to bear a rider into combat knows the tricks attack, come, defend, down, guard, and heel.  Because of the extraordinary intelligence of these animals, they can learn one additional trick.
 
-==Feats==
+## Feats
 
 **Endurance** Mounts gain a +4 bonus on the following checks and saves: Swim checks made to resist nonlethal damage, Constitution checks made to continue running, Constitution checks made to avoid nonlethal damage from a forced march, Constitution checks made to hold your breath, Constitution checks made to avoid nonlethal damage from starvation or thirst, Fortitude saves made to avoid nonlethal damage from hot or cold environments, and Fortitude saves made to resist damage from suffocation. Also, you may sleep in light or medium armor without becoming fatigued.
 
@@ -45,7 +45,7 @@ A warhorse can fight while carrying a rider, but the rider cannot also attack un
 
 **Overrun:** These mounts have the Overrun feat, meaning riders may trample targets as if they had the Trample feat.  Arducian chargers gain +17 on their strength checks during an overrun attempt (+5 str, +4 size, +4 stability, +4 feat).  This does not stack with a rider's Trample feat.
 
-==Overland Movement==
+## Overland Movement
 
 Chargers travel at 6 miles per hour with a light load, or 48 miles a day.
 

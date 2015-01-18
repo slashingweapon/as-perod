@@ -3,7 +3,7 @@ layout: default
 title: Wardcrafting
 ---
 
-[[toc]]
+
 
 Wardcrafting is a skill unique to As-Perod.  Wards are special symbols that invoke magic effects.  The exact origin of these symbols isn't known, but the earliest recorded practice of wardcrafing is towards the end of the reign of the emperor Sidir.
 
@@ -37,7 +37,7 @@ These molds are considered quite valuable property and are heavily protected.  T
 
 == Names ==
 
-A warder can use truenames (see //Tome of Magic//) to restrict the purpose of the warded area to a specific creature.  Such a creature makes his saves against the effect of the ward at -4.  Other creatures are unaffected by the ward.
+A warder can use truenames (see *Tome of Magic*) to restrict the purpose of the warded area to a specific creature.  Such a creature makes his saves against the effect of the ward at -4.  Other creatures are unaffected by the ward.
 
 == Standard Wards ==
 

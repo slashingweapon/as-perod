@@ -11,5 +11,5 @@ A delicate flower in the wild.
 You feel the need to protect her.
 
 
-[[Lana's journal|Lana's steno]]
-[[Lana's repertoire|Lana's repertoire]]
+[Lana's journal|Lana's steno](Lana's journal|Lana's steno.html)
+[Lana's repertoire|Lana's repertoire](Lana's repertoire|Lana's repertoire.html)

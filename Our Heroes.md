@@ -3,38 +3,38 @@ layout: default
 title: Our Heroes
 ---
 
-[[toc]]
+
 =Our Heroes= 
 
 ==Heroes of the Ingress== 
 
-===[[Lana]]=== 
+===[Lana](Lana.html)=== 
 The femme fatale
 
-===[[Drake]]=== 
+===[Drake](Drake.html)=== 
 A cleric of Zerus
 
-===**[[Grobnick]]**=== 
+===**[Grobnick](Grobnick.html)**=== 
 Good natured, easy-going fighter prone to berserker rages.
 
-===[[Kata]]=== 
+===[Kata](Kata.html)=== 
 Druid with a balanced chakra
 
-===[[Ronjoon - Warblade|Ronjoon]]=== 
+===[Ronjoon](Ronjoon - Warblade.html)=== 
 Warblade in search of ancient martial lore
 
-===[[Keemo]]=== 
+===[Keemo](Keemo.html)=== 
 A Ranger
 
-===[[AT88]]=== 
+===[AT88](AT88.html)=== 
 A warforged construct.
 
-===[[Piffle]]=== 
+===[Piffle](Piffle.html)=== 
 An illusionist font of tricks.
 
 ==Heroes of Soubous-Aspera War== 
 
-===Aidan and Naida of [[Ardengard]]=== 
+===Aidan and Naida of [Ardengard](Ardengard.html)=== 
 
 The daughters of the Baroness Seraphina, these two women were trained from a tender age to serve the kingdom as mounted warriors. A fortunate combination of innate talent, good training, and experience has earned them a great deal of respect albeit in different circles. The presence of either rider is a reassurance to her allies. The two of them together are are force to be reckoned with.
 
@@ -42,7 +42,7 @@ Nadia is the fair-haired sister, whose bubbly demeanor can belie her combat prow
 
 Aidan is the darker, moodier sister. Although not famous, she is well-known in the baronies where she has helped people whose troubles were either beneath official notice or simply neglected.
 
-[[image:Harrel-graph-2.gif align="center" caption="Solid Lines: blood relations, Dotted Lines: marriage / sex"]]
+<img src="files/Harrel-graph-2.gif align="center" caption="Solid Lines: blood relations, Dotted Lines: marriage / sex""/>
 
 ===Bishop Ambrose=== 
 
@@ -50,7 +50,7 @@ The following of Saint Cuthbert has seen a revival in recent years, largely than
 
 The Bishop's greatest work to date is still in progress: a combination cathedral, monastery, and stronghold built from the remnants of the old Camber Castle. The central chapel is nearing completion, and there are habitable quarters for the clergy and the workers. But much remains to be done.
 
-Bishop Ambrose is formally addressed as //His Lordship//, //His Grace//, or //His Excellency//. Aidan calls him //Padre//.
+Bishop Ambrose is formally addressed as *His Lordship*, *His Grace*, or *His Excellency*. Aidan calls him *Padre*.
 
 ===Minzerec Granitehelm the Arcanist=== 
 
@@ -66,7 +66,7 @@ Nolan keeps a henchboy for errands and chores, a young human named Thaddius Pool
 
 ===Erky Timbers=== 
 
-A learned gnome respected among his own people, he earns a meager living as both bouncer and babysitter. With no perceivable ambition, this little guy just takes life as it comes. //Hey! I ain't "little" and you forgot to mention disgruntled, surly and foul-mouthed! Love, Erky. Dammit.//
+A learned gnome respected among his own people, he earns a meager living as both bouncer and babysitter. With no perceivable ambition, this little guy just takes life as it comes. *Hey! I ain't "little" and you forgot to mention disgruntled, surly and foul-mouthed! Love, Erky. Dammit.*
 
 ===Abra Basil=== 
 

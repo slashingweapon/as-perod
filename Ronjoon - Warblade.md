@@ -63,5 +63,5 @@ Sudden Recovery (swift action to recover an expended maneuver)
 
 
 
-[[file:Ronjoon-Gnome-Warblade lvl 4.pdf]]
-[[file:Ronjoon-Gnome-Warblade lvl 4 pg2.pdf]]
+[Ronjoon-Gnome-Warblade lvl 4.pdf](files/Ronjoon-Gnome-Warblade lvl 4.pdf)
+[Ronjoon-Gnome-Warblade lvl 4 pg2.pdf](files/Ronjoon-Gnome-Warblade lvl 4 pg2.pdf)

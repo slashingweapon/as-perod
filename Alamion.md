@@ -227,9 +227,9 @@ As soon as we heard the news Ghaucia declared we will sail to Ild-An to the long
 
 Ghaucia claims to know just where the new edge of the world will be and that Ild-An will be a safe place to stay and take council. It wouldn't surprise me if he already had a plan in mind. I have watched him from close quarters long enough now to understand how he works.
 
-//There are numerous pages missing here. From other sources we know that the flotilla headed first to Ild-An. There they stayed for a few months, repairing ships and deciding where to go. A war between the various political camps was narrowly averted. In time, Ghaucia took the council of the Sun Oracle. Most of the fleet was split into sections, each one sent to deliver its occupants to their respective homelands, while the gnomes were distributed among the various fleets. A few small fleets of ships crewed by Ghaucia's followers he kept to himself, to seek out the other five known Oracles of the day, to learn if the Emperor was dead and how to undo the mists. Alamion was the captain of one of those fleets, charged with finding the Oracle of Air.//
+*There are numerous pages missing here. From other sources we know that the flotilla headed first to Ild-An. There they stayed for a few months, repairing ships and deciding where to go. A war between the various political camps was narrowly averted. In time, Ghaucia took the council of the Sun Oracle. Most of the fleet was split into sections, each one sent to deliver its occupants to their respective homelands, while the gnomes were distributed among the various fleets. A few small fleets of ships crewed by Ghaucia's followers he kept to himself, to seek out the other five known Oracles of the day, to learn if the Emperor was dead and how to undo the mists. Alamion was the captain of one of those fleets, charged with finding the Oracle of Air.*
 
-//This part of Alamion's journal begins in Charan, a fishing village in the far northwest of [[EssTina|Ess'Tina]].  He has three ships: the Crux Pentabulator, the Far Moon, and the Wave Rune.  For a guide and translator he has been given Edima, a woman who is in some kind of disgrace.//
+*This part of Alamion's journal begins in Charan, a fishing village in the far northwest of [EssTina|Ess'Tina](EssTina|Ess'Tina.html).  He has three ships: the Crux Pentabulator, the Far Moon, and the Wave Rune.  For a guide and translator he has been given Edima, a woman who is in some kind of disgrace.*
 
 **75 Winter, 221**
 
@@ -253,7 +253,7 @@ The new moon has passed without incident.
 
 In Aspera the planting has begun.  The winter beer is being turned out and the elves are expected any day, to trade their wares and songs for Asperian silver.  The trees are budding and the river ice is yielding.  Soon will come the spring rains, cool and gentle.  Although I have journeyed far with these people I look forward to the day I can build a home and walk my own fields.
 
-//There is a large portrait here of Edima, an exotically beautiful woman who is the team's guide and translator.//
+*There is a large portrait here of Edima, an exotically beautiful woman who is the team's guide and translator.*
 
 **17 Spring, 221**
 
@@ -271,11 +271,11 @@ During the troubles on Ild-An and our dangerous voyages since I have watched Nuh
 
 Our scouts have marked a channel that cuts through the ring of mountains to a bay with calm waters and good anchorage.  We will land and then set out on foot.
 
-//A picture here of Nuhane, a human woman in a sailor's outfit, standing on the forecastle gesturing at the water below.  An old sailor stands behind her, one hand raised in the air and two fingers of the other in his mouth as if to whistle.  The channel waters are rough, canting the deck considerably, and an uneven line of markers outline the channel.//
+*A picture here of Nuhane, a human woman in a sailor's outfit, standing on the forecastle gesturing at the water below.  An old sailor stands behind her, one hand raised in the air and two fingers of the other in his mouth as if to whistle.  The channel waters are rough, canting the deck considerably, and an uneven line of markers outline the channel.*
 
 **20 Spring, 221**
 
-We camp on the beach tonight and begin our search in the morning.  We will take a force of fifty to the interior and leave the rest behind to replenish supplies and repair the //Pentabulator//.
+We camp on the beach tonight and begin our search in the morning.  We will take a force of fifty to the interior and leave the rest behind to replenish supplies and repair the *Pentabulator*.
 
 Here again are the quatrains for the temple of Iyeru:
 
@@ -293,7 +293,7 @@ The cauldron is obvious, as are the jeweled isles of Kord.  The spire seems to i
 
 We know only that sacred tasks must be accomplished at midnight of the new moon, or else we wait a month for another chance to obtain the blessing.  This small window of time, of the whole month, is all that is alloted for passage between this world and that of the gods, since our world was cut off from them.  That the gods have preserved even this small window is proof to me of their intent: they may turn their backs on us their creations, but they will not forget us.
 
-//An illustration here of the ships' three captains plus Nuhane, Oloberry, and Edima.  They are shoehorned into a small captain's cabin around a table strewn with books, maps, charts, instruments, food, and goblets.  They are laughing or singing, and Cpt. Antine is shown playing a lute.//
+*An illustration here of the ships' three captains plus Nuhane, Oloberry, and Edima.  They are shoehorned into a small captain's cabin around a table strewn with books, maps, charts, instruments, food, and goblets.  They are laughing or singing, and Cpt. Antine is shown playing a lute.*
 
 **22 Spring, 221**
 
@@ -309,7 +309,7 @@ In retrospect the clues were quite plain.  Funny how they seemed so opaque at th
 
 The oracle that resides in that place appeared to us, and we made our request.  The response was unexpected.
 
->> //I can give you what you seek, but it will not avail you in the least.  The task you set for yourself is not yours to perform, nor that of your children or their children after them.//
+>> *I can give you what you seek, but it will not avail you in the least.  The task you set for yourself is not yours to perform, nor that of your children or their children after them.*
 
 >> The mortal hands of clay have drawn a line
 >> which gods in secret anger have surveyed
@@ -324,11 +324,11 @@ The oracle that resides in that place appeared to us, and we made our request.  
 >> Though long are years of darkness man must bear,
 >> atonement will those wandring gods repair.
 
-//A small illustration of Verald, a deckhand on the Wave Rune, holding a bunch of flowers.  He has been heavily bandaged, but looks pleased.//
+*A small illustration of Verald, a deckhand on the Wave Rune, holding a bunch of flowers.  He has been heavily bandaged, but looks pleased.*
 
 **35 Spring, 221**
 
-We are giving up the //Crux Pentabulator// as a lost cause.  The damage to her keel was greater than we at first believed.  Packing all her crew and equipment into the remaining two ships will be tight, but we will manage.  We have laid in a store of fresh water, jerked fish, and fruits from the forest.  It is only a month or so from here through the Stavengard and then Eastward to home if the weather holds.
+We are giving up the *Crux Pentabulator* as a lost cause.  The damage to her keel was greater than we at first believed.  Packing all her crew and equipment into the remaining two ships will be tight, but we will manage.  We have laid in a store of fresh water, jerked fish, and fruits from the forest.  It is only a month or so from here through the Stavengard and then Eastward to home if the weather holds.
 
 **57 Spring, 221**
 

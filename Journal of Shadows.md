@@ -5,50 +5,50 @@ title: Journal of Shadows
 
 Winter 1131
 
-//It has taken me eleven years and some great expense to find this place.  Imagine my surprise at finding one of these "rifts" so rediculously close to home and with an old house on top of it.  Maybe luck is the wrong word for it.  Someone in the distant past must have found it and built this as a place of secret power.  They are gone now, but some of their good work remains.  It makes me wonder how many more places like this exist.  Are they everywhere, and just require the knowledge to find them?//
+*It has taken me eleven years and some great expense to find this place.  Imagine my surprise at finding one of these "rifts" so rediculously close to home and with an old house on top of it.  Maybe luck is the wrong word for it.  Someone in the distant past must have found it and built this as a place of secret power.  They are gone now, but some of their good work remains.  It makes me wonder how many more places like this exist.  Are they everywhere, and just require the knowledge to find them?*
 
 ----
 
-// After a closer look I realize I will have to restore the building before it is habitable.  The secret door is still well-concealed and works smoothly, no doubt built by someone who knew the dwarvish craft.  The foundation and outer walls of the house are likewise standing strong, but everything else must be rebuilt.  I will tell my father that it is to be a hunting lodge, and I'll even bring guests here.  Nobody will be the wiser about the true purpose of the place.//
+* After a closer look I realize I will have to restore the building before it is habitable.  The secret door is still well-concealed and works smoothly, no doubt built by someone who knew the dwarvish craft.  The foundation and outer walls of the house are likewise standing strong, but everything else must be rebuilt.  I will tell my father that it is to be a hunting lodge, and I'll even bring guests here.  Nobody will be the wiser about the true purpose of the place.*
 
 ----
 
-//I watched the blackness spread tonight, a hole in space.  I dared not go in or speak to whatever lay beyond because I am unprepared.  I admit I was afraid, and ran from the summoning room.  I'm going to need to be careful.  I need some arcane help.  I doubt that I can prevail on my cousin to lend me his arcanist ... I'll have to find my own.//
+*I watched the blackness spread tonight, a hole in space.  I dared not go in or speak to whatever lay beyond because I am unprepared.  I admit I was afraid, and ran from the summoning room.  I'm going to need to be careful.  I need some arcane help.  I doubt that I can prevail on my cousin to lend me his arcanist ... I'll have to find my own.*
 
 ----
 Autumn 1131
 
-//Construction has finally begun.  It will at least be decent shelter when it is finished, maybe a little more.  I have things and workers delivered from Thrace so few poeple around here knows where the cabin is.  My biggest problem is getting some magical help.//
+*Construction has finally begun.  It will at least be decent shelter when it is finished, maybe a little more.  I have things and workers delivered from Thrace so few poeple around here knows where the cabin is.  My biggest problem is getting some magical help.*
 
 ----
 
-//Jererack's new apprentice was easy to lure here and hold captive.  Young women are so easy.  She will repair the magic circle for me, and assist with the other preparations.  She tells me there are already powerful enchantments in place, but the glyphs and wards must be renewed and the circle has to be repaired and refined.  She briefly refused to help, but she isn't very resistant to pain.  I have appointed Fashrin to keep watch over her.//
+*Jererack's new apprentice was easy to lure here and hold captive.  Young women are so easy.  She will repair the magic circle for me, and assist with the other preparations.  She tells me there are already powerful enchantments in place, but the glyphs and wards must be renewed and the circle has to be repaired and refined.  She briefly refused to help, but she isn't very resistant to pain.  I have appointed Fashrin to keep watch over her.*
 
-//Fashrin was a lucky find.  He is willing to commit violence but doesn't wallow in it.//
+*Fashrin was a lucky find.  He is willing to commit violence but doesn't wallow in it.*
 
 ----
 
-//We watched the rift open together tonight, and the minor fixes made so far have had an effect.  A magical barrier appeared at the appointed hour and the glyphs lit up and consumed much of the material.  The warding paste I had to buy from Newholy were expensive, but it looks to be worth it.//
+*We watched the rift open together tonight, and the minor fixes made so far have had an effect.  A magical barrier appeared at the appointed hour and the glyphs lit up and consumed much of the material.  The warding paste I had to buy from Newholy were expensive, but it looks to be worth it.*
 
 ----
 
 Winter 1132
 
-//I am astonished.  The rift works exactly as described by Janicus, appearing during the three hours of midnight on the new moon.  I journeyed into the realm of shadow, and when the appointed hours had passed I was thrust back into my own world.  Few have done what I have accomplished.  Certainly, nobody outside the Academy.//
+*I am astonished.  The rift works exactly as described by Janicus, appearing during the three hours of midnight on the new moon.  I journeyed into the realm of shadow, and when the appointed hours had passed I was thrust back into my own world.  Few have done what I have accomplished.  Certainly, nobody outside the Academy.*
 
-//In this shadow realm there are people who look and act like us, but according to Janicus they have much more power.  There is a town very near the rift, hidden by a house just like the one in my world.  Maybe I can find an arcanist in the shadow town who will give me the help I need.  I think the next step is far beyond a mere apprentice's ability.//
+*In this shadow realm there are people who look and act like us, but according to Janicus they have much more power.  There is a town very near the rift, hidden by a house just like the one in my world.  Maybe I can find an arcanist in the shadow town who will give me the help I need.  I think the next step is far beyond a mere apprentice's ability.*
 
 ----
 
-//The arcanists of this shadow realm are definitely powerful, yet are as ignorant of my world as I am of theirs.  I obviously stand out, and much in this place is vaguely familiar in an unsettling way.  But I have bartered with a shadow wizard to make bell of summoning for me.  That it only needed to work one day out of the month reduced the cost considerably, so he says.  But it still cost me dearly.  It will of course only work in those hours when the veil is weakest, but that is often enough.//
+*The arcanists of this shadow realm are definitely powerful, yet are as ignorant of my world as I am of theirs.  I obviously stand out, and much in this place is vaguely familiar in an unsettling way.  But I have bartered with a shadow wizard to make bell of summoning for me.  That it only needed to work one day out of the month reduced the cost considerably, so he says.  But it still cost me dearly.  It will of course only work in those hours when the veil is weakest, but that is often enough.*
 
-//Apprentice Carla is getting harder to manage.  I am giving Fashrin free reign to control her more forcefully provided she remain capable of performing her duties.  Soon I will no longer need her.//
+*Apprentice Carla is getting harder to manage.  I am giving Fashrin free reign to control her more forcefully provided she remain capable of performing her duties.  Soon I will no longer need her.*
 
 ----
 
 Spring 1132
 
-//The summoning has worked perfectly.  The demon took an alluring form and tempted me, then threatened me, then tried to bribe me with money I doubt she indeed has.  What I want from her is knowledge.  I sent her away.  I will have to consider how to proceed.//
+*The summoning has worked perfectly.  The demon took an alluring form and tempted me, then threatened me, then tried to bribe me with money I doubt she indeed has.  What I want from her is knowledge.  I sent her away.  I will have to consider how to proceed.*
 
 ----
 
@@ -82,11 +82,11 @@ It might be a while until my next entry.  Management of the Barony is taking up 
 
 Spring 1133
 
-//Finally, I can resume my research.  I have my title and things are under control in the township, so nobody will miss me for a few days a month.  Khelekza pretends to be put out that I haven't contacted her for so long, which is funny coming from someone I know would eat my heart if it suited her purposes.//
+*Finally, I can resume my research.  I have my title and things are under control in the township, so nobody will miss me for a few days a month.  Khelekza pretends to be put out that I haven't contacted her for so long, which is funny coming from someone I know would eat my heart if it suited her purposes.*
 
 ----
 
-//We have a solution.  Some demons can possess a person or object.  A sufficiently skilled mind can hide within such a vessel indefinitely.  We plan to experiment next month.  We are quite excited.//
+*We have a solution.  Some demons can possess a person or object.  A sufficiently skilled mind can hide within such a vessel indefinitely.  We plan to experiment next month.  We are quite excited.*
 
 ----
 
@@ -104,13 +104,13 @@ My only regret is that Iaden wasn't one of my victims.  She refused my proposal 
 
 ----
 
-//Jererack tells me the Academy is investigating the Madness.  We won't be using the portal again until I hear they have left.  It could be months.//
+*Jererack tells me the Academy is investigating the Madness.  We won't be using the portal again until I hear they have left.  It could be months.*
 
 ----
 
 Winter 1134
 
-//Jererack has left for KhumKhari, a long journey.  He hinted that senior wizards have been called from all over As-Perod to participate in some kind of massive magical work.  Khelekza thinks they are trying to strengthen the veil, but that it will be beyond them.  The Academy is too weakened by the veil to have much effect on it, or so her thinking goes.//
+*Jererack has left for KhumKhari, a long journey.  He hinted that senior wizards have been called from all over As-Perod to participate in some kind of massive magical work.  Khelekza thinks they are trying to strengthen the veil, but that it will be beyond them.  The Academy is too weakened by the veil to have much effect on it, or so her thinking goes.*
 
 ----
 
@@ -195,24 +195,24 @@ This year's tutor is working out well.  It will be a shame to have to kill her w
 
 ----
 
-//Ora, no doubt at D'Zal's suggestion, has killed a pair of travelers on the north road and made them her undead slaves.  She lured them to the house and killed them in their beds.  At first I was inclined to be angry, but she installed the wights in the empty crypt at the back entrance.  In time they will kill others, who will serve them, and we will have extra protection to call upon at need.//
+*Ora, no doubt at D'Zal's suggestion, has killed a pair of travelers on the north road and made them her undead slaves.  She lured them to the house and killed them in their beds.  At first I was inclined to be angry, but she installed the wights in the empty crypt at the back entrance.  In time they will kill others, who will serve them, and we will have extra protection to call upon at need.*
 
 ----
 
-//Leyana is pregnant.  Since I can't have bastards running around loose in Lemonfall I will put her up in a nice home in Turyr until she bears the child.  I will do for this child what I did for Ora.  It will be the third such offspring of mine, although none of them realize I am their father.//
+*Leyana is pregnant.  Since I can't have bastards running around loose in Lemonfall I will put her up in a nice home in Turyr until she bears the child.  I will do for this child what I did for Ora.  It will be the third such offspring of mine, although none of them realize I am their father.*
 
 ----
 
-//We have ogres.  The three of us talked about it for a while, and decided that Avadur would be the perfect person to get rid of them.  Hopefully he will die.  If not, we will make a present for him of a cursed thing that will be his downfall.//
+*We have ogres.  The three of us talked about it for a while, and decided that Avadur would be the perfect person to get rid of them.  Hopefully he will die.  If not, we will make a present for him of a cursed thing that will be his downfall.*
 
 ----
 Winter 1141
 
-//Avadur has succeeded, which is something of a disappointment.  So we go on to the alternate plan, and commission a sword to celebrate his victory.  The smith promises me it will be exquisite.  I'll bring it here to have it cursed with a demon and then present it to him with great ceremony.//
+*Avadur has succeeded, which is something of a disappointment.  So we go on to the alternate plan, and commission a sword to celebrate his victory.  The smith promises me it will be exquisite.  I'll bring it here to have it cursed with a demon and then present it to him with great ceremony.*
 
 ----
 
-//I think it was worth every coin I paid.  The sword is definitely possessed of the demon spirit just like the girl is, giving it magical powers -- it even shines with a bright light when drawn.  Avadur surely will not turn up his fat peasant nose at gift like this.  The demon within will weaken his will and, in time, come to control him.  He will perish and noone will be the wiser.  My only regret is that I will not see the event when it happens.//
+*I think it was worth every coin I paid.  The sword is definitely possessed of the demon spirit just like the girl is, giving it magical powers -- it even shines with a bright light when drawn.  Avadur surely will not turn up his fat peasant nose at gift like this.  The demon within will weaken his will and, in time, come to control him.  He will perish and noone will be the wiser.  My only regret is that I will not see the event when it happens.*
 
 ----
 

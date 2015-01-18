@@ -14,13 +14,13 @@ title: Lemonfall
 || Ready Cash || 40,000gp ||
 || Racial Profile || 70% human, 10% dwarf/halfling/gnome.  Plus a large seasonal influx of elves||
 
-[[toc]]
+
 
 = Overview =
 
 Perched on a low hill overlooking miles of fertile valley is the house of the Baron of Lemonfall.  Spread before it is the town of Lemonfall, and beyond that lies several miles of fertile valley grazing land and orchards.  The northern slopes of the surrounding hills are terraced for grapes.
 
-The town was founded by [[Andronicus]] in CE 1110.
+The town was founded by [Andronicus](Andronicus.html) in CE 1110.
 
 = Organizations =
 
@@ -32,7 +32,7 @@ Lemonfall is centered around a large cobblestone square flanked on one side by a
 
 The south of the town is bounded by the main road that runs through the valley, and across this road and a little to the west is a series of large estates on north-facing hills -- the vines, homes, and storage facilities of the wealthiest people in the barony.  The north is bordered by orchards and, beyond them, forested hills.  
 
-Finally, there is the "north road" which cuts through the forest and winds through the lowest parts of the hills ending up in [[Saltdown]].  Where the road first meets the forest is several acres of very large trees.  That is called the "traveler's camp", and it is where the elves set up their tents during the harvest.  During the rest of the year you can sometimes find other groups of people there, of the sort that pass through town but have the means to provide their own shelter.
+Finally, there is the "north road" which cuts through the forest and winds through the lowest parts of the hills ending up in [Saltdown](Saltdown.html).  Where the road first meets the forest is several acres of very large trees.  That is called the "traveler's camp", and it is where the elves set up their tents during the harvest.  During the rest of the year you can sometimes find other groups of people there, of the sort that pass through town but have the means to provide their own shelter.
 
 = Locations =
 
@@ -50,13 +50,13 @@ This square one-story building houses the daytime offices of the Sherrif, record
 
 The records are fairly extensive and keeping them up to date employs two scribes full-time.  There is rarely anyone in the jail cells, but the sherriff and his helpers are almost always out and about.
 
-Iaden's daytime receiving chambers are here, a set of small but well-appointed rooms.  On her desk are well-thumbed, heavily bookmarked copies of Pherad's [[Land Management]] and Oquai's [[Forms and Protocols of Government]], the canonical texts of Asperian administration.
+Iaden's daytime receiving chambers are here, a set of small but well-appointed rooms.  On her desk are well-thumbed, heavily bookmarked copies of Pherad's [Land Management](Land Management.html) and Oquai's [Forms and Protocols of Government](Forms and Protocols of Government.html), the canonical texts of Asperian administration.
 
 Lemonfall has its own full-time crown auditor (a zelous man without humor named Fealous) because of the financial problems it had for several years under Lemandis.
 
 == Healer & Herbalist ==
 
-[[perod-secrets:Lemonfall|Hirisu]] (HA FM) used to live outside town, but with her children grown and her husband passed away she bought the lease to her tiny house with roon for a garden.  People come here for healing, locally-available herbs, poltices, and such.  
+[Hirisu](perod-secrets:Lemonfall.html) (HA FM) used to live outside town, but with her children grown and her husband passed away she bought the lease to her tiny house with roon for a garden.  People come here for healing, locally-available herbs, poltices, and such.  
 
 Hirisu has a Graymalkin named "Bobby", whom she sends on errands and is often seen running around the town.
 
@@ -68,7 +68,7 @@ This is the classic eating hall, where people gather in the evening for the larg
 
 This is another of the original buildings dating back hundreds of years, once a very large manor house.  It was rennovated with a great deal of Elven workmanship and then sold to the one person Andronicus knew would take excellent care of it: madam Aegianne.  Elven architecture and stylings instantly became fashionable, and continue to have an impact on life in the valley.
 
-The finest establishment for many miles around, this tavern offers a soft bed, good food, fine wine, pleasurable company, and gambling.  Many nights there are bards or other forms of entertainment.  It is run by the madam [[perod-secrets:Aegianne|Aegianne]], who makes sure the best and richest people in the county are well taken care of.  It isn't just men who come to the Blue Fruit.  Any travelers with sufficient means and a desire for good food and bedding might stop here.  If you have the coin, Aegianne has what you need.
+The finest establishment for many miles around, this tavern offers a soft bed, good food, fine wine, pleasurable company, and gambling.  Many nights there are bards or other forms of entertainment.  It is run by the madam [Aegianne](perod-secrets:Aegianne.html), who makes sure the best and richest people in the county are well taken care of.  It isn't just men who come to the Blue Fruit.  Any travelers with sufficient means and a desire for good food and bedding might stop here.  If you have the coin, Aegianne has what you need.
 
 == Blemming's Goods ==
 
@@ -82,7 +82,7 @@ Jules often gets embroidery and lace work from his wealthier clients, which he p
 
 == Cobbler Shop ==
 
-[[perod-secrets:Lemonfall|Belis]] (HE COM 7) is the Cobbler in Lemonfall.  He is an ageing half-elf with no wife or children, just his apprentice Drasiri (HE COM 2).  In spite of his well-regarded practice and no family to support, he and his apprentice live rather meagerly above his shop.
+[Belis](perod-secrets:Lemonfall.html) (HE COM 7) is the Cobbler in Lemonfall.  He is an ageing half-elf with no wife or children, just his apprentice Drasiri (HE COM 2).  In spite of his well-regarded practice and no family to support, he and his apprentice live rather meagerly above his shop.
 
 == Blacksmith ==
 
@@ -94,9 +94,9 @@ This is where people come for casks of all sizes, buckets, butter churns, coffin
 
 Inside during the day the shop is a hive of activity, with a dozen apprentices of different races working under the supervision of Drystaff or his cohort Julia (HuFm Ex 5).  Over the last thirty years much of Gideon Valley has been populated and turned to vinticulture, and it takes a lot of casks lay up so much wine.
 
-[[perod-secrets:Lemonfall|Drystaff]] is the master-cooper, a dwarf who moved to Lemonfall in its second year.  He is picky about who buys his ageing casks, figuring he shouldn't waste his time building fine casks for mediocre wine.  It was the unique //Wild Gideon// that brought him to Lemonfall in the first place.   
+[Drystaff](perod-secrets:Lemonfall.html) is the master-cooper, a dwarf who moved to Lemonfall in its second year.  He is picky about who buys his ageing casks, figuring he shouldn't waste his time building fine casks for mediocre wine.  It was the unique *Wild Gideon* that brought him to Lemonfall in the first place.   
 
-He and Baronet Iaden have a joint venture distilling wine to make //Old Baron// spirits, so named for her father Andronicus.  A mini-cask (about 10 bottles) is 20g if it is new, and costs an additional 10g for each 2 years it has aged.  The oldest batch is only 10 years old and costs 200g per mini-cask.  These same little casks sell for considerably more in places like Maedyn and Soubous.
+He and Baronet Iaden have a joint venture distilling wine to make *Old Baron* spirits, so named for her father Andronicus.  A mini-cask (about 10 bottles) is 20g if it is new, and costs an additional 10g for each 2 years it has aged.  The oldest batch is only 10 years old and costs 200g per mini-cask.  These same little casks sell for considerably more in places like Maedyn and Soubous.
 
 == Academy Campus ==
 

@@ -3,22 +3,22 @@ layout: default
 title: House Rules
 ---
 
-= Skills =
+# Skills 
 
-[[Wardcrafting]]
+[Wardcrafting](Wardcrafting.html)
 
-= Magic =
+# Magic 
 
-[[Ritual Magic]]
+[Ritual Magic](Ritual Magic.html)
 
 Spells
-* [[Kite]]
-* [[Telepathy Stone]]
-* [[Zone of Truth, Greater]]
+* [Kite](Kite.html)
+* [Telepathy Stone](Telepathy Stone.html)
+* [Zone of Truth, Greater](Zone of Truth, Greater.html)
 
-= Materials =
+# Materials 
 
-[[protean quartz]]
+[protean quartz](protean quartz.html)
 
 = Item Creation = 
 

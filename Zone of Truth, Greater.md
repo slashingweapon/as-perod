@@ -4,7 +4,7 @@ title: Zone of Truth, Greater
 ---
 
  == Zone of Truth, Greater ==
-//Enchantment (Compulsion) [Mind-affecting]//
+*Enchantment (Compulsion) [Mind-affecting]*
 **Level:** Clr 5
 **Components:** V, S, DF
 **Casting Time:** 1 standard action
@@ -14,4 +14,4 @@ title: Zone of Truth, Greater
 **Saving Throw:** Will negates
 **Spell Resistance:** Yes
 
-This spell works the same as the standard //Zone of Truth//, except for the wider area and higher save DC.
+This spell works the same as the standard *Zone of Truth*, except for the wider area and higher save DC.

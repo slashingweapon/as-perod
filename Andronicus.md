@@ -3,7 +3,7 @@ layout: default
 title: Andronicus
 ---
 
-[[toc]]
+
 
 Timeline
 --------
@@ -30,13 +30,13 @@ Andronicus Sangtree was a fifth-generation Asperan whose forbearers immigrated f
 
 A lifetime vintner, he looked for a place where he could expand his tiny farm and perchance achieve some rank in life.  He looked at many maps of the kingdom and visited many places before he discovered the abandoned town of Lemonfall in Gideon Valley.  At one time it thrived on its orchards and vineyards, but its inhabitants were all forced to move during Tygar's reformation.  Andronicus undertook a journey to look at the place and liked what he saw.  He sold everything he had to obtain the leasehold on the abandoned village and buy the tools and supplies he needed to establish a new settlement.  He took with him his wife Heptide, his 8-year-old son Timeas, and three score men and women to whom he promised land on generous terms if they would help re-establish the town.  Chief among these were three riders Penymos, Ospheros, and Perisas along with their families.
 
-= Arrival =
+# Arrival 
 
 When the settlers arrived in 1110 they were dismayed at how little they had to work with.  The town was in ruins and surrounded by forest.  The only structure remaining was a decrepit meeting hall in which they lived together like peasants.  But they were cheered when Andronicus showed them the many vines and orchards that were still growing after all these years.  There was a tremendous amount of work to be done and the occasional troll that had to be fought off, but knowing a crop was waiting for them come autumn spurred them on.
 
 That spring and summer was full of back-breaking work for the settlers, but as the harvest approached they had made many improvements on the land and recovered one of the old holding caves for their wine.  Their biggest problem then was the lack of hands to bring in the harvest, meaning little profit for the new settlers.  
 
-= Elves =
+# Elves 
 
 It was just before the harvest that one of Andronicus' men, Penymos, happened upon a band of elves in the woods.  He hid from the elves and told his master about them at the first opportunity.  Some of the settlers were distrustful of the strangers, and wanted to drive them away but Andronicus saw opportunity and went directly to the elven encapment with gifts.  He was well received and spent the evening drinking and singing with the tribe, who he learned was on their annual migration north.
 
@@ -50,7 +50,7 @@ When the elves arrived the next autumn Andronicus offered them the very best of 
 
 With the advice of his wife and the elves Andronicus took for himself a wide slope of land, much of it yet to be recovered.  He divided the remaining land as he saw fit, giving Penymos, Ospheros, and Perisas first choice because of the courage they had shown in the first dangerous days of the settlement.  Among the other first settlers some chose orchards, some chose vineyards, while other chose plots of land in the town.  
 
-= Recruiting =
+# Recruiting 
 
 Andronicus and Penymos wintered in Newholy where they could recruit more settlers.  They quickly found that their best inducement was the wine, which they called "Wild Gideon".  The wine and Andronicus' way with people swelled the town's population.  In four years Lemonfall could produce nearly everything it needed, with the exception of grain and cloth which they had to import.
 
@@ -60,7 +60,7 @@ For their pains, the founders obtained modest wealth and good reputation.  They 
 
 A daughter was born to the Sangtree family, Iaden, in 1115.
 
-= Divisions =
+# Divisions 
 
 In these early, hectic years there were only a few notes of discord.  One was how to divide the land, although nobody could say Andronicus hadn't made good on any of his promises.  Another other was on the construction of a permanent campsite for the elves' yearly migration, so that every year they had a good place to live while the harvest was brought in.  The third disagreement came when the Lemonfall was declared a Barony.
 
@@ -70,7 +70,7 @@ Andronicus was elevated to Baron in the fifth year of Lemonfall's founding (1115
 
 It was soon after Andronicus' elevation that Timeas was given to Sir Perisas as an apprentice to become a rider.  
 
-= Victory in Soubous =
+# Victory in Soubous 
 
 In the tenth year of Lemonfall (1120) the vintners decided to compete in the grand wine competetion in Soubous, the greatest city in all of As-Perod.  Each one packed a selection of their best wines for judging.
 
@@ -78,25 +78,25 @@ Sir Timeas son of Baron Andronicus, represented the Sangtree family.  Sir Penymo
 
 The Badlands is a desert plateau that takes two weeks to cross, moving from one waterhole to the next.  The only inhabitants are human and orc nomads who sometimes attack caravans in force, plus the occasional dragon or other dangerous creature.
 
-This particular caravan was not an easy one to assault, as the bandits discovered at great personal cost.  In addition to the armed men and nobles already mentioned, there was prince Jemyt son of Duke Endethel of [[Newholy]], his retinue of riders and men-at-arms, and the Magi [[Seraphina]] in the caravan.  
+This particular caravan was not an easy one to assault, as the bandits discovered at great personal cost.  In addition to the armed men and nobles already mentioned, there was prince Jemyt son of Duke Endethel of [Newholy](Newholy.html), his retinue of riders and men-at-arms, and the Magi [Seraphina](Seraphina.html) in the caravan.  
 
 The raiders attacked the caravan in force, killing Sir Perisas and three men-at-arms in the first moments, and severely wounding Prince Jamyt.  It was Timeas who, through cleverness and bold action, rallied the caravan and emerged victorious.  The convoy tracked the raiding party back to their camp and plundered it.
 
-After such a long and eventful journey a mere wine tasting seemed anticlimactic.  Most of the Gideon Valley vintages were well-received, but it was Sangtree's //Wild Gideon// that took top honors.  The young lords payed a Sender to have the news of their journey, both good and ill, sent home.  The party settled in to spend a year in the great city of Soubous before embarking on the long trip home.
+After such a long and eventful journey a mere wine tasting seemed anticlimactic.  Most of the Gideon Valley vintages were well-received, but it was Sangtree's *Wild Gideon* that took top honors.  The young lords payed a Sender to have the news of their journey, both good and ill, sent home.  The party settled in to spend a year in the great city of Soubous before embarking on the long trip home.
 
-= The Arrest of Sir Timeas =
+# The Arrest of Sir Timeas 
 
-Sirs Timeas, Victor, and Lemandis had been children together during the founding of Lemonfall and had trained as brothers-at-arms under Sir Perisas whose body they had been forced to burn in the desert.  But Timeas and Lemandis had always been rivals and competed for everything, much as their fathers had before them.  (Lemandis' father was Sir Ospheros, who coveted the Barony of Lemonfall.)  In Soubous they strove against each other for the affections of Princess [[Saharta]], a beautiful girl who was the daughter of the Consort Maccoa.
+Sirs Timeas, Victor, and Lemandis had been children together during the founding of Lemonfall and had trained as brothers-at-arms under Sir Perisas whose body they had been forced to burn in the desert.  But Timeas and Lemandis had always been rivals and competed for everything, much as their fathers had before them.  (Lemandis' father was Sir Ospheros, who coveted the Barony of Lemonfall.)  In Soubous they strove against each other for the affections of Princess [Saharta](Saharta.html), a beautiful girl who was the daughter of the Consort Maccoa.
 
-Sir Timeas seemed to have the upper hand in this latest competition until he was arrested by the [[Arcane Academy]] for a serious breach of arcane law.  He was caught attempting to use a powerful and forbidden magic item on the Lady in an attempt to coerce her affections.  He was arrested and imprisoned in the catacombs under the Academy with only a summary trial.
+Sir Timeas seemed to have the upper hand in this latest competition until he was arrested by the [Arcane Academy](Arcane Academy.html) for a serious breach of arcane law.  He was caught attempting to use a powerful and forbidden magic item on the Lady in an attempt to coerce her affections.  He was arrested and imprisoned in the catacombs under the Academy with only a summary trial.
 
 There were rumors that Sir Lemandis had paid to have Timeas arested so the field would be clear for his courtship of Princess Saharta, but these were soon proved false when Prince Jamyt won permission from the Soubous King to marry her.  A few years after that, Sir Timeas died while trying to escape his prison.
 
-= Andronicus Fails =
+# Andronicus Fails 
 
 The news of their son's death hit Andronicus and Heptide hard, and their good fortune seemed to die with him.  A few years later Andronicus fell ill and had to be carried about in a chair and fed by a nurse until he died in the winter of 1124.  The king gave the Barony to Ospheros, who proved to be a competent if uncaring steward.  Then Heptide died of a fever in 1126, leaving eleven-year-old Iaden and her estate in the care of the aging Sir Penymos and his son Sir Victor.  When Iaden turned fifteen Sir Lemandis came courting, although he was twice her age.  
 
-Iaden rejected Lemandis as a suiter, and all those that came after him.  She was fully capable of running her own affairs, she said, and had little use for a man.  She had apparently learned well from the elves and from her parents, because her land flourished and she still casked large quantities of excellent wine every year.  With the help of the cooper Drystaff she began to distill some of her wine into spirits, which she put into bottles and called //Old Baron//.  Like //Wild Gideon// before it, the brandy was an instant success and aged better than the men who  courted her.  She was respected in the town, and people who wanted advice or any kind of aid often came to her before going to the man they began to call the New Baron.
+Iaden rejected Lemandis as a suiter, and all those that came after him.  She was fully capable of running her own affairs, she said, and had little use for a man.  She had apparently learned well from the elves and from her parents, because her land flourished and she still casked large quantities of excellent wine every year.  With the help of the cooper Drystaff she began to distill some of her wine into spirits, which she put into bottles and called *Old Baron*.  Like *Wild Gideon* before it, the brandy was an instant success and aged better than the men who  courted her.  She was respected in the town, and people who wanted advice or any kind of aid often came to her before going to the man they began to call the New Baron.
 
 A series of events nearly undid all she had worked for.  Baron Ospheros, with Sirs Lemandis, Penymos, and Victor were checking the borders with their men-at-arms in tow when they were attacked by a volley of elven arrows.  The attackers ran away before the party couled respond, but Sir Victor and Baron Ospheros were killed, and Sir Penymos gravely wounded.  This was in 1132.
 
@@ -104,17 +104,17 @@ As a Rider and the heir of the late Baron, Lemandis took stewardship of the baro
 
 The lack of elves hurt the entire territory and Iaden more than most people, not least because she counted them as friends.  Much of her harvest withered on the vine that year at the same pace as Sir Penymos, who slowly died of his wounds.  Both expired on the first day of winter 1133.  Penymos was survived by a wife the three grown children, but he saved his last words for Iaden.  They spoke alone for quite some time on the day he died.
 
-= Baron and Baronet =
+# Baron and Baronet 
 
 The barony was given to Lemandis officially in 1133, and the town of Lemonfall suffered under the indifferent and sometimes capricious management of Baron Lemandis.  Valuable shipments were lost, horses went lame, they could never find enough harvesters, and taxes were increased to make up the revenue shortfalls.  A few of the officials became corrupt, and began to extract money or favors from the villagers.  After six years of increasing harships, everyone turned to Iaden for help.
 
 Iaden's response to her peoples' plea (and she had long thought of them as **her** people) was to agree to Lemandis' long-standing proposal of marriage.  The deal they struck was this: She would govern for him as Baronet.  One season out of the year he was required by law to spend in his demense, and during that time she would defer to him in public so long as he defered to her in matters of governance.  The rest of the time he could do as he liked so long as it was done away from Lemontree.  He would get all of the respect and liesure that could be had from a barony, with none of the responsibilities that suited him so poorly.
 
-They were wed suddenly in 1139, and before the marriage bed had cooled Lemandis was galloping to [[Newholy]] while Iaden was riding her horse in the opposite direction, seeking the elves to tell them they were welcome once again in Lemonfall.
+They were wed suddenly in 1139, and before the marriage bed had cooled Lemandis was galloping to [Newholy](Newholy.html) while Iaden was riding her horse in the opposite direction, seeking the elves to tell them they were welcome once again in Lemonfall.
 
 This is how things stand in CE 1141: an absentee Baron whom nobody is in any great hurry to see, and an ever-present Baronet whom they love.  Baron Lemandis is seen only in spring, when he is required by law to reside in his demense.
 
-= Lemandis Falls =
+# Lemandis Falls 
 
 Iaden's favorite rider and childhood friend, Avadur, died under mysterious circumstances.  She received disturbing news that the sword presented by her husband Lemandis to Avadur in recognition for his heroism may have been linked to his death.  Iaden commissioned a group of adventurers to trace the movements of the sword during the time it was in Lemandis' posession.
 
@@ -122,7 +122,7 @@ The search took the party to Lemandis' hunting lodge in the forest, where they d
 
 Lemandis was found out, defeated in battle, and turned over to the Academy.  Iaden was given the Barony, making her the Baroness of the town her father founded.
 
-= The Return of Timeas =
+# The Return of Timeas 
 
 Timeas did not die in prison, as had long been believed.  Rather, he escaped after several years and wandered in the wilderness, coming into possession of a fabulous treasure along the way.  For a few years he has been in Aspera, much changed but putting his enormous wealth to work building businesses and a network of contacts.  He still seeks revenge on Prince Jamyt, whom he believes masterminded his imprisonment.  Their point of contention wasn't Saharta, as had been supposed, but rather Timeas' relationship with Jamyt's sister, the Princess Jiskira.
 

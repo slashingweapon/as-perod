@@ -7,7 +7,7 @@ The Veil is the protective barrier that separates As-Perod from everywhere else.
 
 == History ==
 
-The emperor [[Sidir]], gransdon of the fabled [[Mosyph]], extended his empire's reach well beyond the eastern and northern coasts of As-Perod while at the same time tightening his grip on the people already under his dominion.  He was a [[divergent]], and with the vast resources available to him was able to achieve a level of magical power that was unprecedented.  In his final years he insisted on being worshiped as a god, and many believed he would indeed achieve deification.
+The emperor [Sidir](Sidir.html), gransdon of the fabled [Mosyph](Mosyph.html), extended his empire's reach well beyond the eastern and northern coasts of As-Perod while at the same time tightening his grip on the people already under his dominion.  He was a [divergent](divergent.html), and with the vast resources available to him was able to achieve a level of magical power that was unprecedented.  In his final years he insisted on being worshiped as a god, and many believed he would indeed achieve deification.
 
 In the year 220 C.E. a major change came over the conquered lands.  Mists began to gather in the farthest reaches of the empire, mists which men were afraid to enter.  This barrier slowly rolled towards the heart of As-Perod, driving all of the Third Children before it.  Soldiers left their posts, settlers abandoned their towns, and people fought for scarce transport seats back to their homeland.  Within a few months the  mysterious barrier had halted its advance several miles off the shores of As-Perod and the Third Children were coraled into thier native land.
 

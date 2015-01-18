@@ -5,7 +5,7 @@ title: Kata's Journal
 
 Assignment 1:
 
-As part of the Map and Scouting Service, <span style="background-color: #ffffff;">[[as-perod/Quintain Ulstradie|Quintain Ulstradie]]</span> tell us to explore the Northern River. We are to chart the river and obstacles, observe the terrain and landscape, look for signs of life and keep an eye out for the Grand Plateau. Thats a colony that was established several months ago, but no one has heard from them in 3 months.
+As part of the Map and Scouting Service, <span style="background-color: #ffffff;">[Quintain Ulstradie](as-perod/Quintain Ulstradie.html)</span> tell us to explore the Northern River. We are to chart the river and obstacles, observe the terrain and landscape, look for signs of life and keep an eye out for the Grand Plateau. Thats a colony that was established several months ago, but no one has heard from them in 3 months.
 
 We get on a ship and head north, pass by some big ole rocks that I know are animals, but hey the assigment was to observe not risk life. So we cruise on by.
 
@@ -24,6 +24,6 @@ I found a herbalist room and took all the mushrooms, will check them out when we
 
 Assignment 3 Owl Bears make good pets.
 
-We report back to <span style="background-color: #ffffff;">[[as-perod/Quintain Ulstradie|Quintain Ulstradie]]. He is amazed that we found C-note on the South Bay. Then he grumbles a bit and tells us to go back and get the owl bears that we shoved into the jail. Back to C-note, grab the owl bears and back to town. On the way the Warblade squeeks "hey" and we see a Satyr running away! Half man and half goat! AT88 grabs it and threatens to kill him a bunch of times, that robot needs to learn some manners. We all calm down a bit and make nice. We talk for a little bit, he tells us about the the hominds around here, his boss is the Lady of the Silver Vale, giants live to the south and they are big and mean, the owl bear was named Old Grumpy and there is a troll.</span>
+We report back to <span style="background-color: #ffffff;">[Quintain Ulstradie](as-perod/Quintain Ulstradie.html). He is amazed that we found C-note on the South Bay. Then he grumbles a bit and tells us to go back and get the owl bears that we shoved into the jail. Back to C-note, grab the owl bears and back to town. On the way the Warblade squeeks "hey" and we see a Satyr running away! Half man and half goat! AT88 grabs it and threatens to kill him a bunch of times, that robot needs to learn some manners. We all calm down a bit and make nice. We talk for a little bit, he tells us about the the hominds around here, his boss is the Lady of the Silver Vale, giants live to the south and they are big and mean, the owl bear was named Old Grumpy and there is a troll.</span>
 
 Satyr name is Fenast, he likes music and can sing and dance. I taught him a few of our dice games. He goes on his merry way. 

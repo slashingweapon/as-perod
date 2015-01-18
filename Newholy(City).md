@@ -3,11 +3,11 @@ layout: default
 title: The City of Newholy
 ---
 
-[[toc]] 
+ 
 
 || **City of Newholy** || ||
 || Government || Mixed Government.  Appointed Duke, city council ||
-|| Leadership || [[perod-secrets:Jamyt|Prince Jamyt]] and Baronette Saharta ||
+|| Leadership || [Prince Jamyt](perod-secrets:Jamyt.html) and Baronette Saharta ||
 || Town population || 10,000 ||
 || Surrounding Population || 50,000 ||
 || Racial Profile || 60% human, 15% halfling, 15% gnome, 10% dwarven ||
@@ -18,7 +18,7 @@ title: The City of Newholy
 
 = Overview =
 
-Newholy used to be a much more crowded area, but declining birth rates and the rise of [[Reeland]] as a trade center has emptied much of this once-industrial city.  In recent years the abandoned buildings have been torn down and the stones used to increase the fortifications.  The newly leveled areas have been turned into parks, arboretums of exotic plans and animals, monuments, and grand homes.  [[perod-secrets:Jamyt|Prince Jamyt]] has been behind many of these renovations.
+Newholy used to be a much more crowded area, but declining birth rates and the rise of [Reeland](Reeland.html) as a trade center has emptied much of this once-industrial city.  In recent years the abandoned buildings have been torn down and the stones used to increase the fortifications.  The newly leveled areas have been turned into parks, arboretums of exotic plans and animals, monuments, and grand homes.  [Prince Jamyt](perod-secrets:Jamyt.html) has been behind many of these renovations.
 
 Newholy has spent enormous amounts of money building a series of colliseums and sporting arenas.  The grandest autumn festival in the kingdom is hosted here, and anyone with the time and money journeys to Newholy to enjoy the spectacle or in hopes of winning one of the extravagant prizes.  The celebration begins on the fall equinox and ends one month later in a 3-day bacchinal.  During this time the population of the city more than quadruples (in a good year), with many year-round residents chosing to rent out their homes at extravagant rates and live in the country for the duration.  In the year 1141, the planned games are said to be of special magnificence.
 
@@ -49,7 +49,7 @@ The Prince is the theater for the wealthy.  It is an opulent building that seats
 
 In the middle of a neighborhood near the south gate is a thick copper pipe that emerges out of the street to a height of four feet, then curves down about a half a foot.  Near the spout is a trough for watering horses.  Carved on the flagstones in large letters at the foot of the pipe is the following inscription.
 
-> //Water//
+> *Water*
 > "No man is long thirsty who can bring 
 > about good things by his own hands.
 > All men are noble who draw water for 

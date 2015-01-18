@@ -3,11 +3,11 @@ layout: default
 title: The Discipline
 ---
 
-**The Discipline** is the code by which [[Arcane Academy]] members must abide.  In a nutshell, it demands that arcanists place the Academy's priorities ahead of any other loyalties, must register their magical items, won't engage in certain research, and will surrender contraband items to the Academy.
+**The Discipline** is the code by which [Arcane Academy](Arcane Academy.html) members must abide.  In a nutshell, it demands that arcanists place the Academy's priorities ahead of any other loyalties, must register their magical items, won't engage in certain research, and will surrender contraband items to the Academy.
 
 == The Oath ==
 
-> I //name// swear to use my gifts and lore in the service of As-Perod for the protection and improvement of all its people.  I swear this oath to my arcane brothers, who have first claim on my allegiance before race, nation, or family.  I bow before the Council of Mage Lords whose wisdom informs my actions.  I bind myself to the arcane law, for as long as I shall live.
+> I *name* swear to use my gifts and lore in the service of As-Perod for the protection and improvement of all its people.  I swear this oath to my arcane brothers, who have first claim on my allegiance before race, nation, or family.  I bow before the Council of Mage Lords whose wisdom informs my actions.  I bind myself to the arcane law, for as long as I shall live.
 
 == The Arcane Law ==
 

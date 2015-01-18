@@ -3,7 +3,7 @@ layout: default
 title: Opus Issyren
 ---
 
-[[toc]]
+
 
 =Theory= 
 
@@ -22,7 +22,7 @@ The spells given here can only be used during the new moon, of course. The only 
 * Secret Chest
 
 =Orbis Maccina= 
-The neophyte student will invariably approach the study of the Veil as if it were some kind of colossal spell. It is better thought of as a vast machine: it has many separate components, some of them more crucial than others. It requires tuning and adjustments to work properly. It is for this reason the initiated call the Veil the //Orbis Maccina//, or "The Machine of the World".
+The neophyte student will invariably approach the study of the Veil as if it were some kind of colossal spell. It is better thought of as a vast machine: it has many separate components, some of them more crucial than others. It requires tuning and adjustments to work properly. It is for this reason the initiated call the Veil the *Orbis Maccina*, or "The Machine of the World".
 
 The Maccina exists everywhere, and touches everything, a fact which makes the Maccina a tempting subject of study. Magic that can affect the Maccina can conceivably touch anything within its confines, which is the known world. The builders not only took advantage of this fact in some astounding ways, but put in place safeguards to prevent abuse.
 
@@ -31,7 +31,7 @@ Precisely how the Council managed such a colossal achievement under the nose of 
 ==Keystones== 
 Any complex machine requires a set of levers and gauges. For the Macchina, the levers are the Keystones. I theorized about the existence of such devices for many years, before encountering a written description of one by Magi Penbrooke. She was a close confidant of Mage Lord Lazzar, who died during the Unity Wars. She recovered the keystone and returned it to the Council, but not before recording some of her observations:
 
-//"It presents as a enormous sapphire, six inches wide and near two inches thick, unfaceted but polished. Aside from its size, it is unremarkable upon first sight. Examination with a glass reveals symbols, densely packed and layered, which move slowly across the stone. Some of them are standard, but there are many others that I do not understand."//
+*"It presents as a enormous sapphire, six inches wide and near two inches thick, unfaceted but polished. Aside from its size, it is unremarkable upon first sight. Examination with a glass reveals symbols, densely packed and layered, which move slowly across the stone. Some of them are standard, but there are many others that I do not understand."*
 
 From other sources, I have gleaned that there are as many as six keystones, each one held by an academic chair of the Council. Precisely how their functions differ, or if they are all the same, remains a mystery to me. As to their collective functionality, I know at least a little, and theorize about a great deal more.
 
@@ -43,7 +43,7 @@ Wards are not so much created or destroyed, as they are defined or are not defin
 ===Passwards=== 
 Tampering with the Macchina is so tempting and so powerful, access to it must be carefully controlled. Physical access can't be denied, since it exists everywhere. The keystones grant tremendous power over the veil, but the Council sometimes needs to delegate maccina-related tasks without granting too much power to their helpers. The answer to these problems is passwards: wards which permit the bearer to link their magic to the maccina, thus taking advantage of its power. Maccina passwards are closely guarded by the Council, so much so that even some people who use them don't know of the existence of the passwards. An example here will be useful.
 
-The Council employs a few enforcer teams whose main purpose is to close elemental rifts. Each of these teams is given six rods, one for each kind of elemental energy: earth, air, fire, water, light, and shadow. These rods are little more than charged magical devices, containing a //Close Maccina Gate// spell to the appropriate inner plane. Unknown to the users of these rods, a passward is incorporated into the haft of each one. The rods' users don't realize that, buried deep within the device, is a symbol which could allow them to do much more than simply close off elemental rifts.
+The Council employs a few enforcer teams whose main purpose is to close elemental rifts. Each of these teams is given six rods, one for each kind of elemental energy: earth, air, fire, water, light, and shadow. These rods are little more than charged magical devices, containing a *Close Maccina Gate* spell to the appropriate inner plane. Unknown to the users of these rods, a passward is incorporated into the haft of each one. The rods' users don't realize that, buried deep within the device, is a symbol which could allow them to do much more than simply close off elemental rifts.
 
 One further word about passwards is worth mentioning, and that is that the Council knows has ways of knowing when they are employed. I was able to observe and, after a few attempts, copy a maccina key. I should have used it more sparingly, but instead I was carried away by my many experiments. After only a few weeks the passward ceased to work, thus verifying my suspicions that (1) the Academy monitors wardkey use, at least sporadically, and (2) that wardkeys can be changed. While I was disappointed to lose the key, it must be said that it was a terribly enlightening few weeks.
 
@@ -81,14 +81,14 @@ Area:** 100ft + 100ft/level emanation, centered on the caster
 **Spell Resistance:** no
 **Focus:** An uncut protean quartz large worth at least 1500gp, plus a maccina wardkey or keystone
 
-//This is an example that demonstrates the use of the Maccina to take an interesting bit of magic, and expand its effectiveness tremendously. The thaumaturgical link between all substances of a like kind (in this case, protean quartz) is linked to the Maccina's expansive presence and power. The end result is a range and duration far exceeding the complexity of the spell. I believe that, with a large enough crystal and a keystone, one might even scry on all telepathy stones everywhere. Exactly what that would do to one's mind is another thing entirely. -- Magi Issyren//
+*This is an example that demonstrates the use of the Maccina to take an interesting bit of magic, and expand its effectiveness tremendously. The thaumaturgical link between all substances of a like kind (in this case, protean quartz) is linked to the Maccina's expansive presence and power. The end result is a range and duration far exceeding the complexity of the spell. I believe that, with a large enough crystal and a keystone, one might even scry on all telepathy stones everywhere. Exactly what that would do to one's mind is another thing entirely. -- Magi Issyren*
 
 By focusing her mind on the protean quartz, and then linking herself to the Maccina, the caster can locate each piece of protean quartz (manufactured and natural) within range of the spell.
 
-//1st round:// know the presence or abscense of protean crystals in the area
-//2nd round:// know the number of crystals in the area
-//3rd round:// know the distance and direction to each crystal in the area
-//4th round:// begin listening in on telepathy stone conversations
+*1st round:* know the presence or abscense of protean crystals in the area
+*2nd round:* know the number of crystals in the area
+*3rd round:* know the distance and direction to each crystal in the area
+*4th round:* begin listening in on telepathy stone conversations
 
 The caster can hear any telepathy stone conversations that have an endpoint within range. If there are many conversations taking place, then the caster must make a listen check to separate out the conversation she is interested in (just like listening in a crowded room).
 

@@ -31,6 +31,6 @@ In Aspera I joined a group of treasure-hunters: your uncles Slick, Jaq, Danbur, 
 
 It wasn't long before the Academy came calling again. Your mother's innate potential was extraordinary, and there was simply no way the Academy would overlook her. I let them take her for schooling with the understanding that if she ended up in one of their dungeons, I would personally murder every member of the council. And anyway, Seraphina couldn't wait to go. I insisted on having her apprenticeship myself, and by the time she donned her first Arcanist robes she was almost a Magus.
 
-//The remaining page is withheld.// 
+*The remaining page is withheld.* 
 
  

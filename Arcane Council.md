@@ -5,7 +5,7 @@ title: Arcane Council
 
 These are the seats of the Arcane Council, and their current occupants.
 
-**Abjuration**  Mensah Chenzira (Hu Ma).  Third son of a sailmaker in [[Kepharix]], Mensah had a long career as an enforcer.  After spending a decade as the Vice-Chancellor of Enforcement he was elevated to the Council.
+**Abjuration**  Mensah Chenzira (Hu Ma).  Third son of a sailmaker in [Kepharix](Kepharix.html), Mensah had a long career as an enforcer.  After spending a decade as the Vice-Chancellor of Enforcement he was elevated to the Council.
 
 **Conjuration** Weblew Thenestal (Hu Ma).  
 

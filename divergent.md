@@ -8,5 +8,5 @@ title: Divergence
 # someone of extraordinary talent or 
 # someone posessing unique and dangerous powers. 
 
-The most famous divergents would have to be the two great emperors of As-Perod.  [[Mosyph]] was divergent in the first sense of the word, being naturally endowed with talents in many fields. His grandson [[Sidir]] was also divergent in the second sense, having demonstrated an ability to call outsiders at a very young age.  
+The most famous divergents would have to be the two great emperors of As-Perod.  [Mosyph](Mosyph.html) was divergent in the first sense of the word, being naturally endowed with talents in many fields. His grandson [Sidir](Sidir.html) was also divergent in the second sense, having demonstrated an ability to call outsiders at a very young age.  
 

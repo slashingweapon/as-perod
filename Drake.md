@@ -3,7 +3,7 @@ layout: default
 title: Drake
 ---
 
-[[image:Gnome_Cleric_Color_by_Haclif.jpg width="210" height="331" align="right"]]
+<img src="files/Gnome_Cleric_Color_by_Haclif.jpg width="210" height="331" align="right""/>
 
 =Who I Am and How I Came to Be= 
 
@@ -30,7 +30,7 @@ Hama. Back in Asperod I was an acolyte. Now in the wilderness I am Hama of Zarus
 
 “The might of Zarus is our shield!”
 
-//“May we be his sword.”// Many intone the chorus, more every day.
+*“May we be his sword.”* Many intone the chorus, more every day.
 
 “This is a great day, my friends, for today we break ground on the First Church of Zarus in this new land. I am proud to share this day with you all. Since our arrival in this land I have worried about two things only: doing my best by you all, and serving the will of Zarus. I am here today as a testament to the fact that these two endeavors are one in the same. I serve Zarus by serving the gnomish race.
 
@@ -47,7 +47,7 @@ Hama. Back in Asperod I was an acolyte. Now in the wilderness I am Hama of Zarus
 “I have a companion who has a phrase he uses. I would like to paraphrase that for us all here today: ‘Service to the people, Glory to the Race, in Zarus’ name.’ It is up to all of use to help one another out here, to show the strength to set aside our petty concerns for the greater glory of all gnomes. We have the force of Zarus behind us, and a continent to dominate before us. We mustn’t squander our power mastering one another. Rather we must marshal all the forces we have been granted: our minds, our words, our spirits and our swords, to make this land our own.
 
 “It will not come tomorrow, or in our lifetimes, but if we all stay true to the will of Zarus this land will belong to the gnomish people once more. Stand together! Stand as one! Service to the people! Glory to the Race! In Zarus’ name!”
-“//Service to the people! Glory to the Race! In Zarus’ name! Service to the people! Glory to the Race! In Zarus’ name! Service to the people! Glory to the Race! In Zarus’ name!//”
+“*Service to the people! Glory to the Race! In Zarus’ name! Service to the people! Glory to the Race! In Zarus’ name! Service to the people! Glory to the Race! In Zarus’ name!*”
 
 The chant rang throughout the assemblage as I consecrated the ground for our new temple, and the words were carried on the lips of those who had received Zarus’ blessing. When I left with my fellowship the next day the phrases were still being repeated in greetings. Fallon was already working at dawn, directing the men digging the foundation. My first official act on the holy site was to imbue him as my Fie, so that he would serve our people with the power of Zarus while I was gone.
 

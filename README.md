@@ -6,7 +6,7 @@ title: README
 As-Perod Temporary Project
 --------------------------
 
-This is a temporary home for the As-Perod wiki data, using GitHub's Jekyll engine to create the pages.  I also use `sed` to do some baseic transformations to turn the [WikiSpaces](http://wikispaces.com) wikitext into [GitHub-flavored Markdown](https://help.github.com/articles/markdown-basics/).
+This is a temporary home for the As-Perod wiki data, using GitHub's Jekyll engine to create the pages.  I also use `sed` to do some baseic transformations to turn the [WikiSpaces](http:*wikispaces.com) wikitext into [GitHub-flavored Markdown](https:*help.github.com/articles/markdown-basics/).
 
 Sed script:
 

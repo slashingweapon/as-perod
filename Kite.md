@@ -3,8 +3,8 @@ layout: default
 title: Kite
 ---
 
-== Kite ==
-//Transmutation//
+## Kite 
+*Transmutation*
 **Level:** Sor/Wiz 2
 **Components:** V, S, M
 **Casting Time:** 1 standard action
@@ -31,4 +31,4 @@ Using this spell in high winds is very dangerous.  Loss of control sends the cas
 
 A masterwork harness (150gp) grants a +4 to these saves.
 
-//Material Component:// A feather from a vulture, seagull, albatross, or other large soaring bird.
+*Material Component:* A feather from a vulture, seagull, albatross, or other large soaring bird.

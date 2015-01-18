@@ -5,7 +5,7 @@ title: Cosmology
 
 = The Universe According to the Academy =
 
-The Academy teaches that the [[Veil]] was created by early magicians to regulate the flow of magic and protect As-Perod from the chaos that exists ouside its borders both physical and dimentional.  Threats lurk constantly outside the limits of the veil, and the Academy is vigilant in keeping them at bay.
+The Academy teaches that the [Veil](Veil.html) was created by early magicians to regulate the flow of magic and protect As-Perod from the chaos that exists ouside its borders both physical and dimentional.  Threats lurk constantly outside the limits of the veil, and the Academy is vigilant in keeping them at bay.
 
 The Academy eschews the idea of gods creating the multiverse as an organized collection of planes.  All that lies outside the prime material plane is chaos, filled with demons.  Instead, it teaches the concept of spontaneous organization.  If there is a diety, he is an absent and nameless one.  
 
@@ -49,7 +49,7 @@ When the spirits of the dead are not properly conducted into the afterlife, they
 
 Gnomes spread out grain or bread for sparrows, who arrive in astounding numbers and then carry the deceased spirit away.  Elves tied their dead into biers which the raise high into the tallest trees.  The corpses are visited by the night-lark, which plucks the soul from corpses' mouths and carry them into the night sky.  Halflings burn their dead on pyres of a size that match the deceased's rank.  Half-elves follow the customs of whichever culture they have adopted as their own.  The death practices of the dwarves are a secret, but on the rare occasions they die away from home their bodies are packed in salt or alcohol and carried home.
 
-Humans, being the most numerous and widespread of all the third children, have the most varied practies.  In [[Soubous]] the dead are interred in the many underground crypts which, it is said, are connected to the Well of Souls through the many underground passages upon which the ancient city is built.  On the night of the new moon the spirits are drawn out of the crypts and into the well, though noone living knows the path thaken.
+Humans, being the most numerous and widespread of all the third children, have the most varied practies.  In [Soubous](Soubous.html) the dead are interred in the many underground crypts which, it is said, are connected to the Well of Souls through the many underground passages upon which the ancient city is built.  On the night of the new moon the spirits are drawn out of the crypts and into the well, though noone living knows the path thaken.
 
 In the far west the savage humans wind their dead in sheets then place them at the edge of the ocean.  As night falls they beat drums to summon Kidesiku, a creature that lives deep in the sea.  Near midnight huge black tentacles reach out to shore and accept the bodies, dragging them down to the great Sea-Mother, whom the beast serves.
 

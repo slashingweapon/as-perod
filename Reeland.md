@@ -3,13 +3,13 @@ layout: default
 title: Reeland
 ---
 
-Reeland is a large city situated just outside the [[Yeron]] flood plain, at the intersection of the river highway and the road from [[Rotherford]].  This positions Reeland as the near-perfect place to accept raw goods from all over the kingdom.  The city also boasts an active commodities market, a sizeable Academy campus, and many of the best craftsmen in the kingdom.
+Reeland is a large city situated just outside the [Yeron](Yeron.html) flood plain, at the intersection of the river highway and the road from [Rotherford](Rotherford.html).  This positions Reeland as the near-perfect place to accept raw goods from all over the kingdom.  The city also boasts an active commodities market, a sizeable Academy campus, and many of the best craftsmen in the kingdom.
 
 All told, there are about 120,000 people who live either in Reeland and in the surrounding townships.  There is a very large, very active garrison in Reeland that includes about 1800 riders and over 2000 footmen.  These forces rotate out into the field for two weeks at a time, guarding roads and townships in the area.  
 
 = Economy =
 
-Wood comes from the Rotherford road, metals come from the Silver Hills, foodstuffs, linen and hemp fiber from all along the rier basin.  Much of the raw goods produced in Aspera are bought and sold in Reeland, either directly or by contract.  The abundance of raw goods also makes Reeland an attractive spot for crafting finished goods, which is why there are more and better crafters here than anywhere else in the kingdom.  Finished goods made for export are shipped to [[Maedyn]] for taxation before heading to [[Ild-Eldir]] or [[Soubous]].  
+Wood comes from the Rotherford road, metals come from the Silver Hills, foodstuffs, linen and hemp fiber from all along the rier basin.  Much of the raw goods produced in Aspera are bought and sold in Reeland, either directly or by contract.  The abundance of raw goods also makes Reeland an attractive spot for crafting finished goods, which is why there are more and better crafters here than anywhere else in the kingdom.  Finished goods made for export are shipped to [Maedyn](Maedyn.html) for taxation before heading to [Ild-Eldir](Ild-Eldir.html) or [Soubous](Soubous.html).  
 
 The royal coinage is also here.  Gold and silver smelted in the southern mines is stamped by royal inspectors there and floated downstream to Reeland.  The crown takes it's share in taxes, coins it, then either lends or spends it.  
 

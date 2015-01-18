@@ -3,9 +3,9 @@ layout: default
 title: Second Unity War
 ---
 
-[[toc]]
 
-=The Second Unity War (1146-????)=
+
+# The Second Unity War (1146-????)
 
 Unlike the Unity Wars of the fourth century, which was fought to prevent a break-up of the Imperium, the Second Unity War was begun to establish a new Empire, under the reign of the Grand Prince Djazeef, and was heavily backed by the Arcane Academy.
 
@@ -16,4 +16,4 @@ Ostensibly, the war is being fought to bring two demonically influenced regimes 
 ===The Dwarven Refusal=== 
 
 
-//Geranicus the Younger//
+*Geranicus the Younger*
