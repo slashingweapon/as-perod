@@ -4,6 +4,7 @@ title: Ronjoon the Warblade
 ---
 
 Ronjoon - Gnome Warblade in search of martial lore. Prestige Class: Bloodstorm Blade
+
 || **Str** || 10 || **For**t || 10 || **Level** || 5/3 || **Manuevers (6)** || **Manuvers Ready (4)** || **Stances (2)** ||
 || **Dex** || 20 || **Ref** || 8 || **Class** || Warblade || Punishing Stance +1d6 dmg -2 AC ||   || Punishing Stance ||
 || **Con** || 16 || **Will** || 3 ||   || Bloodstorm Blade || Absolute Steel Stance +10 ft to speed, +2 AC with movement. ||   || Absolute Steel Stance ||
@@ -46,6 +47,7 @@ Ronjoon - Gnome Warblade in search of martial lore. Prestige Class: Bloodstorm B
 || Swim ||< Str ||> 2 ||= 2 ||=   ||=   ||   ||   ||   ||
 || Tumble || Dex ||> 12 ||= 7 ||   || +5 ||   ||   ||   ||
 || Use Rope ||< Dex ||> 5 ||=   ||=   ||= +5 ||   ||   ||   ||
+
 Current:
 XP: 29.551 GP: 376
 35,000 for level 9
@@ -55,7 +57,7 @@ Mithrial Chain Shirt +4 AC, with Blur (20% miss chance) 3 times a day 5 rounds e
 +2 Dexterity Gloves
 
 
-Feats**
+## Feats
 Weapon Finesse: Use Dex Mod instead of Str Mod on attacks rolls with light melee weapons.
 Improved Initiative: +4 Bonus on Initiative checks.
 Point Blank Shot: +1 with range attacks to 30ft
@@ -64,4 +66,5 @@ Sudden Recovery (swift action to recover an expended maneuver)
 
 
 [Ronjoon-Gnome-Warblade lvl 4.pdf](files/Ronjoon-Gnome-Warblade lvl 4.pdf)
+
 [Ronjoon-Gnome-Warblade lvl 4 pg2.pdf](files/Ronjoon-Gnome-Warblade lvl 4 pg2.pdf)
